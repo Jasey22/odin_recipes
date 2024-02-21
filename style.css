@@ -40,7 +40,7 @@ h1 {
     font-weight: 900;
 }
 
-/* ----- */
+/* -- enjoy delishes meals -- */
 
 .container-two {
     display: flex;
@@ -53,7 +53,7 @@ h1 {
     display: flex;
     flex: 1;
     flex-direction: column;
-margin: 50px 50px 0px 50px;
+    margin: 50px 50px 0px 50px;
 }
 
 p {
@@ -63,7 +63,7 @@ p {
 button {
     background-color: #3882F6;
     color: white;
-    border-radius: 5px;
+    border-radius: 25px;
     border: none;
     height: 50px;
     width: 120px;
@@ -77,6 +77,4 @@ button {
     margin: 30px;
     margin-left: 100px;
     margin-top: 50px;
-
-
 }
